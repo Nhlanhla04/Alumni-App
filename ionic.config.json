@@ -1,0 +1,7 @@
+{
+  "name": "Alumni-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
